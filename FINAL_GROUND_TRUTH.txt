@@ -1,0 +1,9 @@
+SOVEREIGN AUDIT FINAL RESOLUTION
+----------------------------------
+DNA: https://7hhn5xurahyvemisbkeeyfe5eldr6uwtjhnfmlknq6xq6eq57ywq.arweave.net/-c7e3pEB8VIxEgqITBSdIscfUtNJ2lYtTYevDxId_i0
+PAYLOAD: https://e5jblidlv6wf3puij22wchgbz46df35jdmmfvoxjoyrxuoxd4cvq.arweave.net/J1IVoGuvrF2-iE61YRzBzzwy76kbGFq66XYjejrj4Ks
+GATEWAY: https://24ls7hrtwzjia4nnxxgybyiobsbbrjwl27zrxahq347a2iay4zkq.arweave.net/1xcvnjO2UoBxrb3NgOEODIIYpsvX8xuA8N8-DSAY5lU
+
+DEBT INDEX: 4.326238
+AUDITOR: Cory Miller (@vccmac)
+STATUS: ANCHORED & RESOLVED
