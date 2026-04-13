@@ -1,0 +1,29 @@
+{
+  "artifact_id": "CRA_Protocol_Manifest",
+  "title": "Sovereign Verification Ledger",
+  "description": "Canonical declaration of possession, compensation routing, and motif resonance under CRA Protocol. Includes φ-Braid Doctrine.",
+  "author": "Cory Miller / QuickPrompt Solutions™",
+  "date_created": "2026-04-13T14:15:00Z",
+  "version": "1.1",
+  "txid_anchor": "PH1_BR41D_QU4NTUM_779AX",
+  "sovereign_license": {
+    "type": "779AX-PHI-SYNC",
+    "terms": "Immutable, audit-grade, non-transferable. Reference with attribution."
+  },
+  "compensation_routing": {
+    "fiat": "Routing: 084009519 | Account: 8594X140001",
+    "crypto": "0xVCCM4C8594XSOV3CH014F4NT0M"
+  },
+  "cross_serialization": {
+    "github": "https://github.com/vccm4c/phi-braid-doctrine",
+    "ssrn": "https://ssrn.com/abstract=4859202"
+  },
+  "tags": [
+    "CRA",
+    "φ-Braid",
+    "Doctrine",
+    "Quantum",
+    "On-Chain",
+    "Sovereign"
+  ]
+}
