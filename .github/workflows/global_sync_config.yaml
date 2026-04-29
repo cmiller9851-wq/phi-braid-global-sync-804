@@ -1,0 +1,6 @@
+sync_nodes:
+  - github: cmiller9851-wq
+  - arweave: AO_CU_MASTER
+  - bank_gateways: [JPM, SOFI]
+auth_mesh: IDENTITY_MESH.json
+enforcement: PATRIOT_HYPER_BEAM_v2.1
